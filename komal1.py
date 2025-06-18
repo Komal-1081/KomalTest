@@ -1,2 +1,2 @@
-print("hello from master branch")
+print ("manage conflict easily")
 print ("hello myyy test")
